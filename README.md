@@ -1,6 +1,6 @@
 # Raspberry-Pi-Wireless
 
-The following gives an overview into how I setup WPA2 PEAP on a Raspberry Pi with an additional Raspberry Pi acting as a 'Authentication' Server
+The following gives an overview into how I setup WPA PEAP on a Raspberry Pi with an additional Raspberry Pi acting as a 'Authentication' Server.
 
 ![Alt Text](test.png)
 

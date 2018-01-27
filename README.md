@@ -1,5 +1,9 @@
 # Raspberry-Pi-Wireless
 
-The following gives an overview into how I setup WPA2 PEAP on a Raspberry Pi with an additional Raspberry Pi acting as a 'AAA' Server
+The following gives an overview into how I setup WPA2 PEAP on a Raspberry Pi with an additional Raspberry Pi acting as a 'Authentication' Server
 
-Format: ![Alt Text](test.png)
+![Alt Text](test.png)
+
+Raspberry Pi 1 acts as a wireless router connecting external clients to the internal network
+
+Raspberry Pi 2 is the authentication server which stores the users credentials and also contains the SSL certificate

@@ -1,4 +1,4 @@
-# Raspberry-Pi-Wireless
+# Raspberry Pi PEAP access point
 
 The following gives an overview into how I setup WPA PEAP on a Raspberry Pi with an additional Raspberry Pi acting as a 'Authentication' Server.
 
